@@ -14,7 +14,7 @@
 
 .. code-block:: c
 
-    /* sample.c */_method
+    /* sample.c */
     #include <math.h>
 
     /* Compute the greatest common divisor */
